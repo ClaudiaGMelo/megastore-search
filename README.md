@@ -24,7 +24,7 @@ cargo test
 
 ## Estrutura de dados
 
-Usamos múltiplos `HashMap<String, Vec<Product>>` para indexar os produtos por diferentes critérios de busca.
+Usei múltiplos `HashMap<String, Vec<Product>>` para indexar os produtos por diferentes critérios de busca.
 
 ## Contribuição
 
